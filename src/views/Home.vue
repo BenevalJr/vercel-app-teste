@@ -1,6 +1,6 @@
 <template>
   <div class="home">
-    <HelloWorld msg="Teste VUE Vercel App" />
+    <HelloWorld msg="Teste VUE Vercel App - versão 2" />
   </div>
 </template>
 
